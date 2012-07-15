@@ -1,0 +1,5 @@
+/tmp
+*.o
+/cpu_info/cpu_info
+/mcasp0_reg/mcasp0_reg
+
